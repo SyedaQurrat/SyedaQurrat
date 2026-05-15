@@ -75,14 +75,15 @@
 ---
 
 <h1 align="center"> 📊 GitHub Stats</h1>
-
 <div align="center">
+  <!-- Streak Stats (Ye aksar kaam karta hai) -->
   <img src="https://streak-stats.demolab.com?user=SyedaQurratAI&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedaQurratAI&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaQurratAI&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <!-- Alternate Link for Stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SyedaQurratAI&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <!-- Alternate Link for Languages -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SyedaQurratAI&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 ---
 
