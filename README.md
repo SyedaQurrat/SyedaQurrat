@@ -17,6 +17,9 @@
   <a href="https://www.linkedin.com/in/SyedaQurratAI" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://www.upwork.com/freelancers/SyedaQurratAI" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
   <a href="https://x.com/SyedaQurratAI" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
@@ -24,8 +27,6 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
-
----
 
 <h1 align="center">⚖️ Tech Stack</h1>
 
